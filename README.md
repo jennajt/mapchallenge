@@ -9,3 +9,6 @@
 
 ### Day 3: Polygons
 ![Project Logo](maps/3_polygons.png)
+
+### Day 4: A bad map
+![Project Logo](maps/4_badmap.png)
