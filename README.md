@@ -14,7 +14,7 @@
 ![Project Logo](maps/4_badmap.png)
 
 ### Day 5: Analog
-
+![Project Logo](maps/5_analog.png)
 
 ### Day 6: Asia
 ![Project Logo](maps/6_asia.png)
