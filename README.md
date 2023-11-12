@@ -12,3 +12,15 @@
 
 ### Day 4: A bad map
 ![Project Logo](maps/4_badmap.png)
+
+### Day 5: Analog
+
+
+### Day 6: Asia
+![Project Logo](maps/6_asia.png)
+
+### Day 7: Navigation
+![Project Logo](maps/7_navigation.png)
+
+### Day 8: Africa
+![Project Logo](maps/8_africa.png)
