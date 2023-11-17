@@ -24,3 +24,7 @@
 
 ### Day 8: Africa
 ![Project Logo](maps/8_africa.png)
+
+### Day 9: Hexagons
+![Project Logo](maps/9_hex.gif)
+
